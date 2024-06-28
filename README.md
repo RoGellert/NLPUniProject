@@ -5,7 +5,7 @@ We ran our fine-tuning in Google Colab utilizing paid A100 GPU. If you want to r
 There are 4 files with fine-tuning procedures and 1 script to scrape the data in this folder, you can follow the steps described in the notebooks:
 
 - NLP_Phi2.ipynb - fine tuning Phi2 through regular PEFT
-- NLP_Unsloth_Gemma.ipynb - fine tuning Gemma through unsloth
+- NLP_Unsloth_Gemma.ipynb - fine tuning Gemma through Unsloth
 - NLP_Unsloth_Llama2.ipynb - fine tuning Llama2 through Unsloth
 - starcode.ipynb - fine tuning starcoder through regular PEFT
 - kotlin_dataset_donloader.py - file to scrape open-source code files from repositories
